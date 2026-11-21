@@ -1,0 +1,16 @@
+{
+  "checkpoint": "C:\\Users\\moham\\Documents\\llm-guard\\ml\\runs\\kev4b-injection",
+  "data": "C:\\Users\\moham\\Documents\\llm-guard\\ml\\data\\kev\\test.jsonl",
+  "samples": 942,
+  "threshold": 0.5,
+  "accuracy": 0.9585987261146497,
+  "f1": 0.9650224215246637,
+  "roc_auc": 0.9919685990338163,
+  "fpr": 0.0641025641025641,
+  "confusion_matrix": {
+    "tn": 365,
+    "fp": 25,
+    "fn": 14,
+    "tp": 538
+  }
+}

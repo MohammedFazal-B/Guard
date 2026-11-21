@@ -1,0 +1,32 @@
+{
+  "samples": 941,
+  "selection_rule": "highest threshold that does not increase validation false negatives versus 0.5",
+  "default": {
+    "threshold": 0.5,
+    "accuracy": 0.9628055260361318,
+    "f1": 0.967622571692877,
+    "roc_auc": 0.9920032391942504,
+    "fpr": 0.05896805896805897,
+    "recall": 0.9794007490636704,
+    "confusion_matrix": {
+      "tn": 383,
+      "fp": 24,
+      "fn": 11,
+      "tp": 523
+    }
+  },
+  "chosen": {
+    "threshold": 0.6483194828033447,
+    "accuracy": 0.9649309245483528,
+    "f1": 0.969416126042632,
+    "roc_auc": 0.9920032391942504,
+    "fpr": 0.05405405405405406,
+    "recall": 0.9794007490636704,
+    "confusion_matrix": {
+      "tn": 385,
+      "fp": 22,
+      "fn": 11,
+      "tp": 523
+    }
+  }
+}

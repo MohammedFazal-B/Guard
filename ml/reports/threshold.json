@@ -1,0 +1,5 @@
+{
+  "threshold": 0.6483194828033447,
+  "source": "validation",
+  "rule": "highest threshold that does not increase validation false negatives versus 0.5"
+}
